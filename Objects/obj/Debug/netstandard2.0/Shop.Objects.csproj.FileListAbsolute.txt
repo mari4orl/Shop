@@ -1,0 +1,11 @@
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.csproj.AssemblyReference.cache
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.AssemblyInfoInputs.cache
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.AssemblyInfo.cs
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.csproj.CoreCompileInputs.cache
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\bin\Debug\netstandard2.0\Shop.Objects.xml
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\bin\Debug\netstandard2.0\Shop.Objects.deps.json
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\bin\Debug\netstandard2.0\Shop.Objects.dll
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\bin\Debug\netstandard2.0\Shop.Objects.pdb
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.dll
+D:\WEB\Flexberry projects\CodeGen\Shop\Shop\Objects\obj\Debug\netstandard2.0\Shop.Objects.pdb

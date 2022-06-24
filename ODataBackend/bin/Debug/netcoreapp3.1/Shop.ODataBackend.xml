@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shop.ODataBackend</name>
+    </assembly>
+    <members>
+        <member name="T:IIS.Shop.Program">
+            <summary>
+            Основной класс приложения.
+            </summary>
+        </member>
+        <member name="M:IIS.Shop.Program.Main(System.String[])">
+            <summary>
+            Точка входа в приложение.
+            </summary>
+            <param name="args">Аргументы запуска.</param>
+        </member>
+        <member name="M:IIS.Shop.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Создать инициализатор приложения.
+            </summary>
+            <param name="args">Аргументы запуска.</param>
+            <returns>Инициализатор приложения.</returns>
+        </member>
+        <member name="T:IIS.Shop.Startup">
+            <summary>
+            Класс настройки запуска приложения.
+            </summary>
+        </member>
+        <member name="M:IIS.Shop.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:IIS.Shop.Startup" /> class.
+            </summary>
+            <param name="configuration">An application configuration properties.</param>
+        </member>
+        <member name="P:IIS.Shop.Startup.Configuration">
+            <summary>
+            An application configuration properties.
+            </summary>
+        </member>
+        <member name="M:IIS.Shop.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Configurate application services.
+            </summary>
+            <remarks>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </remarks>
+            <param name="services">An collection of application services.</param>
+        </member>
+        <member name="M:IIS.Shop.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Configurate the HTTP request pipeline.
+            </summary>
+            <remarks>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </remarks>
+            <param name="app">An application configurator.</param>
+            <param name="env">Information about web hosting environment.</param>
+        </member>
+    </members>
+</doc>
